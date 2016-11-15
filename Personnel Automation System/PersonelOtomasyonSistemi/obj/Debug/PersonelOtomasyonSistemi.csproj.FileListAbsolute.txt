@@ -1,0 +1,216 @@
+C:\Users\hasancan\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+C:\Users\hasancan\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\hasancan\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\hasancan\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+C:\Users\hasancan\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+C:\Users\hasancan\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+C:\Users\hasancan\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
+C:\Users\hasancan\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\hasancan\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\hasancan\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+C:\Users\asus\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+C:\Users\asus\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\asus\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\asus\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\asus\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\asus\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+C:\Users\asus\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form2.resources
+C:\Users\asus\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+C:\Users\asus\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+C:\Users\asus\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+C:\Users\User\Downloads\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\User\Downloads\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\User\Downloads\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\User\Downloads\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\User\Downloads\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+C:\Users\User\Downloads\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form2.resources
+C:\Users\User\Downloads\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+C:\Users\User\Downloads\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+C:\Users\User\Downloads\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form4.resources
+C:\Users\hasancan\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form4.resources
+C:\Users\User\Downloads\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+C:\Users\User\Downloads\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\User\Downloads\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\User\Downloads\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\User\Downloads\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\User\Downloads\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+C:\Users\User\Downloads\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form2.resources
+C:\Users\User\Downloads\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+C:\Users\User\Downloads\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form4.resources
+C:\Users\User\Downloads\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+C:\Users\User\Downloads\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
+C:\Users\Macsi\Desktop\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+C:\Users\Macsi\Desktop\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\Macsi\Desktop\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\Macsi\Desktop\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\Macsi\Desktop\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\Macsi\Desktop\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Macsi\Desktop\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+C:\Users\Macsi\Desktop\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form2.resources
+C:\Users\Macsi\Desktop\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+C:\Users\Macsi\Desktop\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form4.resources
+C:\Users\Macsi\Desktop\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+C:\Users\Macsi\Desktop\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon3\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon3\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon3\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon3\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon3\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon3\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon3\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon3\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form2.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon3\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon3\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form4.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon3\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon3\PersonelOtomasyonSistemi (1)\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
+D:\yedekler\MASAÜSTÜ\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+D:\yedekler\MASAÜSTÜ\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+D:\yedekler\MASAÜSTÜ\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+D:\yedekler\MASAÜSTÜ\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+D:\yedekler\MASAÜSTÜ\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+D:\yedekler\MASAÜSTÜ\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+D:\yedekler\MASAÜSTÜ\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+D:\yedekler\MASAÜSTÜ\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form2.resources
+D:\yedekler\MASAÜSTÜ\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+D:\yedekler\MASAÜSTÜ\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form4.resources
+D:\yedekler\MASAÜSTÜ\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+D:\yedekler\MASAÜSTÜ\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\DinamikAtamalarPOS\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+C:\Users\User\Downloads\DinamikAtamalarPOS\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\User\Downloads\DinamikAtamalarPOS\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\User\Downloads\DinamikAtamalarPOS\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\User\Downloads\DinamikAtamalarPOS\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\User\Downloads\DinamikAtamalarPOS\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\DinamikAtamalarPOS\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+C:\Users\User\Downloads\DinamikAtamalarPOS\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form2.resources
+C:\Users\User\Downloads\DinamikAtamalarPOS\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+C:\Users\User\Downloads\DinamikAtamalarPOS\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form4.resources
+C:\Users\User\Downloads\DinamikAtamalarPOS\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+C:\Users\User\Downloads\DinamikAtamalarPOS\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form2.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form4.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form2.resources
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form4.resources
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 4 Güncel arayüz\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form5.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form4.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form2.resources
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form5.resources
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form4.resources
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+C:\Users\hasancan\YandexDisk\Dökümanlar\Uygulama Arayüz Tasarımı\Versiyon 5 Güncelleme Bölümü Uyarlı\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
+C:\Users\hasancan\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form5.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+C:\Users\Macsi\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\Macsi\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\Macsi\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\Macsi\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\Macsi\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Macsi\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form4.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form5.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+C:\Users\Macsi\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
+C:\Users\hasancan\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+C:\Users\hasancan\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\hasancan\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\hasancan\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+C:\Users\hasancan\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+C:\Users\hasancan\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+C:\Users\hasancan\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form5.resources
+C:\Users\hasancan\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+C:\Users\hasancan\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
+C:\Users\hasancan\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\hasancan\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\hasancan\YandexDisk\Dökümanlar\Kodlama\Versiyon1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form6.resources
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form6.resources
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form5.resources
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V1\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V2\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V2\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V2\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V2\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V2\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V2\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V2\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V2\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V2\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form6.resources
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V2\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form5.resources
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V2\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V2\Personel Sistemi Kodlama V1\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V3\Personel Sistemi Kodlama V3\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V3\Personel Sistemi Kodlama V3\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V3\Personel Sistemi Kodlama V3\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V3\Personel Sistemi Kodlama V3\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V3\Personel Sistemi Kodlama V3\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V3\Personel Sistemi Kodlama V3\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V3\Personel Sistemi Kodlama V3\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V3\Personel Sistemi Kodlama V3\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V3\Personel Sistemi Kodlama V3\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form6.resources
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V3\Personel Sistemi Kodlama V3\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form5.resources
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V3\Personel Sistemi Kodlama V3\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+D:\DERS\2015-2016\YZM3105 Yazılım Sınama\Personel Sistemi Kodlama V3\Personel Sistemi Kodlama V3\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
+C:\Users\macit\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe.config
+C:\Users\macit\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\macit\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\macit\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.exe
+C:\Users\macit\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\bin\Debug\PersonelOtomasyonSistemi.pdb
+C:\Users\macit\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csprojResolveAssemblyReference.cache
+C:\Users\macit\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form1.resources
+C:\Users\macit\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form3.resources
+C:\Users\macit\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form6.resources
+C:\Users\macit\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Form5.resources
+C:\Users\macit\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.Properties.Resources.resources
+C:\Users\macit\Desktop\PersonelOtomasyonSistemi\PersonelOtomasyonSistemi\obj\Debug\PersonelOtomasyonSistemi.csproj.GenerateResource.Cache
